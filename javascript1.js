@@ -6,3 +6,4 @@ people.unshift("Shubham");
 const now=people[1];
 console.log(now);
 console.log(people);
+console.log("Hello world");
